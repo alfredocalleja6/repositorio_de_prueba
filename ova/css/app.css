@@ -1,0 +1,16 @@
+.header1{
+	margin-top: 20px;
+	background-color: #006680;
+}
+.top-bar, .top-bar ul{
+	background-color: #F4AF00;
+}
+.logos{
+	vertical-align: top;
+}
+.title-bar{
+	background-color: #006680;
+}
+.custom{
+	padding-top: 15px;
+}
